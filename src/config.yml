@@ -1,0 +1,9 @@
+#Configuration file for PrestoChango
+
+#Which item to use as the block changer.  Default is glass bottle
+#Use Material names, not ID #'s.
+tool: glass_bottle
+
+#Items you wish to prevent being changed.  Comma separated list.
+#Use Material names, not ID #'s.  Example: dirt,sand,wool
+blacklist: []

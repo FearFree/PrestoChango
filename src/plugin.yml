@@ -1,0 +1,16 @@
+name: PrestoChango
+main: co.domaincontrol.prestochango.PrestoChango
+version: 0.0.1
+author: FearFree
+description: Change block data value with ease!
+
+commands:
+    pc:
+        description: Give player the PrestoChango item.
+        usage: /<command>
+        permission: prestochango.use
+        
+    reload:
+        description: Reload configuration file.
+        usage: /<command>
+        permission: prestochango.reload
